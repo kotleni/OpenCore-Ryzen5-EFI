@@ -1,2 +1,2 @@
 ## OpenCore build for Steam Deck
-**Current state: ** Stuck on Apple Logo.
+<b>Current state:</b> Stuck on Apple Logo.
