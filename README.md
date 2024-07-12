@@ -1,2 +1,4 @@
-## OpenCore build for Steam Deck
-<b>Current state:</b> Stuck on Apple Logo.
+## OpenCore build for my build
+AMD Ryzen 5 3600
+NVIDIA GTX 1070
+16gb of RAM
